@@ -1,6 +1,6 @@
 # Machine Learning Notebook
 
-This project tries to predict perceived usefulness of a Yelp review based on its text.
+This project tries to predict usefulness of a Yelp review based on its text and grade.
 
 ## Getting Started
 
@@ -64,13 +64,13 @@ This will enable you to see Jupyter's tree view, with the contents of the workin
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+--
 
 ## Authors
 
 * **Tatiana Ermakova** - *Initial work* - [tatianae2](https://github.com/tatianae2)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+--
 
 ## License
 
